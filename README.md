@@ -15,3 +15,5 @@ Conteúdo esclarecedor, estimula as pessoas a adotarem a prática
 ## 💭 Reflexão (Opcional)
 Elaborar um video natty utilizando a IA é algo complexo, que envolve o conhecimento da tecnologia um olhar apurado pa
 e atento aos detalhes de forma a tornar a experiencia a mais realista possivel
+
+https://studio.d-id.com/share?id=a2486719d94166c0daaddaf5523848cd
